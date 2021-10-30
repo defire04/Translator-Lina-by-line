@@ -1,1 +1,1 @@
-# Translator-Lin-by-line
+# Translator-Line-by-line
